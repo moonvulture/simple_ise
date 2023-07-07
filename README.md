@@ -13,7 +13,7 @@ This script (`simple_ise.py`) retrieves session information for a device with a 
 
 2. Install the required Python packages:
     ```bash
-    pip install 
+    pip install -r requirements.txt 
 
 ## Usage
 
