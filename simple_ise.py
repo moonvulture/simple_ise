@@ -58,7 +58,7 @@ def get_session_info(mac_address):
 if len(sys.argv) > 1:
     mac_address = sys.argv[1]
 else:
-    print("Error: Please provide the MAC address as a command-line argument. Example: python3 get_ip.py <MAC>")
+    print("Error: Please provide the MAC address as a command-line argument. Example: python3 simple_ise.py <MAC>")
     sys.exit(1)
 
 session_info = get_session_info(mac_address)

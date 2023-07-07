@@ -1,6 +1,6 @@
 # ISE Session Information Retriever
 
-This script (`get_ip.py`) retrieves session information for a device with a given MAC address from Cisco Identity Services Engine (ISE) using the ISE REST API.
+This script (`simple_ise.py`) retrieves session information for a device with a given MAC address from Cisco Identity Services Engine (ISE) using the ISE REST API.
 
 ## Prerequisites
 
